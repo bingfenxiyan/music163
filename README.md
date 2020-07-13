@@ -1,15 +1,9 @@
-# test
-
-Windows环境配置：
+# Windows环境配置：
 
 
-  Anaconda3-5.1.0
+  Anaconda 3-5.1.0
 
 
-  Python3.6
+  Python 3.6
 
-
-  Scrapy 1.5.1
-
-  
-
+  Pycharm 2018.2.1
